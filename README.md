@@ -1,36 +1,16 @@
-# ✅ JavaFX To-Do List Application
+# 📋 TODO List - JavaFX
 
-This is a **JavaFX-based To-Do List application** that allows users to create, edit, delete, and manage their daily tasks. It includes user authentication and stores tasks in a MongoDB database.
+A simple JavaFX-based TODO list application with GUI features like task creation, deletion, and status tracking.
 
----
+## 🔧 Technologies Used
+- Java
+- JavaFX
+- SceneBuilder
 
-## 🚀 Features
+## 📦 How to Run
+1. Open the project in your Java IDE (e.g., IntelliJ or Eclipse)
+2. Ensure JavaFX is configured correctly
+3. Run `Main.java`
 
-- 📝 User Registration & Login (MongoDB backend)
-- ➕ Add, Edit, Delete tasks
-- 🗂️ Task Priority: Low, Medium, High
-- 📅 Due Date selection with reminders
-- 🔍 Search functionality
-- ✅ Mark tasks as completed
-- 🔄 Drag and Drop task ordering
-- ⚠️ Visual reminder for overdue tasks
-- 🔔 Automatic reminder popups
-
----
-
-## 🛠️ Technologies Used
-
-- Java 11+
-- JavaFX (UI)
-- MongoDB (Database)
-- Maven (Dependency Management)
-
----
-
-## 🎬 Demo
-
-[▶️ Watch Demo Video](demo/demo.mp4)
-
-Or download and watch locally:
-- `demo/demo.mp4` (included in this repository)
-
+## 👨‍💻 Author
+Harini Madhankumar
